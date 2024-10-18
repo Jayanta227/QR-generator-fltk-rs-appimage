@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MyApp
+Exec=qr_code_generator
+Icon=myapp
+Type=Application
+Categories=Utility;
+
